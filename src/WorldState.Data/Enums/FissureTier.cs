@@ -1,6 +1,6 @@
 ﻿namespace WorldState.Data.Enums
 {
-    public enum FissureTier
+    public enum FissureTier : int
     {
         Lith = 1,
         Meso = 2,

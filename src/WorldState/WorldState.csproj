@@ -6,4 +6,8 @@
     <AssemblyName>WorldState</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WorldState.Data\WorldState.Data.csproj" />
+  </ItemGroup>
+
 </Project>
